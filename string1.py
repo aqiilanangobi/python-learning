@@ -1,0 +1,5 @@
+open("outwork.txt","w+")
+file=open("outwork.txt","w+")
+file.write("given two numbers 6 and 4")
+file.write(f"\tsum: {6+4} \n\tDifference: {6-4} \n\tProduct: {6*4} \n\tDivision: {6/4} \n\t\tend\t")
+print()

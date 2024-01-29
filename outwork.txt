@@ -1,0 +1,5 @@
+given two numbers 6 and 4	sum: 10 
+	Difference: 2 
+	Product: 24 
+	Division: 1.5 
+		end	
