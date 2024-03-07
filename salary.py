@@ -1,5 +1,3 @@
-wage = "none"
-hours_worked = "none"
 
 RATE_0F_PAY = 35000
 employee_name = input("\nenter employee_name: ")

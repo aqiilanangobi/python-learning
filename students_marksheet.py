@@ -1,4 +1,4 @@
-full_name:  input("enter your name: ")
+full_name =  input("enter your name: ")
 english_score  = int(input("enter english score: "))
 maths_score  = int(input("enter maths score: "))
 science_score  = int(input("enter science score: "))

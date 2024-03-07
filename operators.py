@@ -8,9 +8,9 @@ print(f"the subtraction: {sub}")
 sum = number_1 + number_2
 print(f"the sum: {sum}")
 division = number_1/number_2
-print(f"the rounded division: {division}")
+print(f"the division that returns a decimal point: {division}")
 division_2 = number_1//number_2
-print(f"the division that also returns a decimal point: {division_2}")
+print(f"rounded division: {division_2}")
 modulus = number_1%number_2
 print(f"modulus: {modulus}")
 product = number_1 * number_2
